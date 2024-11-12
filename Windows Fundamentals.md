@@ -32,148 +32,41 @@ C:\Users\htb-student\Desktop\Company Data
 
 FoxitReaderUpdateService.exe
 
-### 
+### What is the alias set for the ipconfig.exe command?
 
+ifconfig
 
+### Find the Execution Policy set for the LocalMachine scope.   
 
-###   
+Unrestricted
 
+### Use WMI to find the serial number of the system.   
 
+00329-10280-00000-AA938
 
-###   
+### Find the SID of the bob.smith user.  
 
+S-1-5-21-2614195641-1726409526-3792725429-1003
 
+### What 3rd party security application is disabled at startup for the current user? (The answer is case sensitive).  
 
-###   
+Everyone
 
+### What is the name of the group that is present in the Company Data Share Permissions ACL by default?  
 
+Security
 
-###   
+### What is the name of the tab that allows you to configure NTFS permissions?  
 
+wuauserv
 
+### What is the name of the service associated with Windows Update?  
 
-###   
 
 
+### List the SID associated with the user account Jim you created.  
 
-###   
 
 
-
-###   
-
-
-
-###   
-
-
-
-###   
-
-
-
-###  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### List the SID associated with the HR security group you created.  
 
