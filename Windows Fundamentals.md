@@ -1,14 +1,14 @@
 # WINDOWS FUNDAMENTALS
 
-# What is the Build Number of the target workstation?
+### What is the Build Number of the target workstation?
 
 19041
 
-# Which Windows NT version is installed on the workstation? (i.e. Windows X - case sensitive)
+### Which Windows NT version is installed on the workstation? (i.e. Windows X - case sensitive)
 
 Windows 10
 
-# 
+### 
 
 
 
