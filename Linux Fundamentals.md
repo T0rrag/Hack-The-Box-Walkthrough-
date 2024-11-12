@@ -1,22 +1,22 @@
 # Linux Fundamentals
 
-# Find out the machine hardware name and submit it as the answer.
+### Find out the machine hardware name and submit it as the answer.
 
 x86_64
 
-# What is the path to htb-student's home directory?
+### What is the path to htb-student's home directory?
 
 /home/htb-student
 
-# What is the path to the htb-student's mail?
+### What is the path to the htb-student's mail?
 
 /bin/bash
 
-# Which kernel version is installed on the system? (Format: 1.22.3)
+### Which kernel version is installed on the system? (Format: 1.22.3)
 
 4.15.0
 
-# What is the name of the network interface that MTU is set to 1500?
+### What is the name of the network interface that MTU is set to 1500?
 
 ens192
 
