@@ -50,23 +50,24 @@ S-1-5-21-2614195641-1726409526-3792725429-1003
 
 ### What 3rd party security application is disabled at startup for the current user? (The answer is case sensitive).  
 
-Everyone
+NordVPN
 
 ### What is the name of the group that is present in the Company Data Share Permissions ACL by default?  
 
-Security
+Everyone
 
 ### What is the name of the tab that allows you to configure NTFS permissions?  
 
-wuauserv
+Security
 
 ### What is the name of the service associated with Windows Update?  
 
-
+wuauserv
 
 ### List the SID associated with the user account Jim you created.  
 
-
+S-1-5-21-2614195641-1726409526-3792725429-1007
 
 ### List the SID associated with the HR security group you created.  
 
+S-1-5-21-2614195641-1726409526-3792725429-1007
