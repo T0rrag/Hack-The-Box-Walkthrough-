@@ -1,0 +1,143 @@
+# Intro to Network Traffic Analysis
+
+### How many layers does the OSI model have?
+
+7
+
+### How many layers are there in the TCP/IP model?
+
+4
+
+### True or False: Routers operate at layer 2 of the OSI model?
+
+False
+
+### What addressing mechanism is used at the Link Layer of the TCP/IP model?
+
+Mac-Address
+
+### At what layer of the OSI model is a PDU encapsulated into a packet? ( the number )
+
+3
+
+### What addressing mechanism utilizes a 32-bit address?
+
+IPv4
+
+### What Transport layer protocol is connection oriented?
+
+TCP
+
+### What Transport Layer protocol is considered unreliable?
+
+UDP
+
+### TCP's three-way handshake consists of 3 packets: 1.Syn, 2.Syn & ACK, 3. _? What is the final packet of the handshake?
+
+ACK
+
+### What is the default operational mode method used by FTP?
+
+Active
+
+### FTP utilizes what two ports for command and data transfer? (separate the two numbers with a space)
+
+20 21
+
+### Does SMB utilize TCP or UDP as its transport layer protocol?
+
+TCP
+
+### SMB has moved to using what TCP port?
+
+445
+
+### Hypertext Transfer Protocol uses what well known TCP port number?
+
+80
+
+### What HTTP method is used to request information and content from the webserver?
+
+GET
+
+### What web based protocol uses TLS as a security measure?
+
+HTTPS
+
+### True or False: when utilizing HTTPS, all data sent across the session will appear as TLS Application data?
+
+True
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+### 
+
+
+
+###
