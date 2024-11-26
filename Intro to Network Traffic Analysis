@@ -76,9 +76,9 @@ True
 
 Relative
 
-### 
+### If I wish to start a capture without hostname resolution, verbose output, showing contents in ASCII and hex, and grab the first 100 packets; what are the switches used? please answer in the order the switches are asked for in the question.
 
-
+-nvXc 100
 
 ### 
 
