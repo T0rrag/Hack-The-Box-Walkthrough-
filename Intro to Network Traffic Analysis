@@ -80,7 +80,7 @@ Relative
 
 -nvXc 100
 
-### 
+### Given the capture file at /tmp/capture.pcap, what tcpdump command will enable you to read from the capture and show the output contents in Hex and ASCII? (Please use best practices when using switches)
 
 
 
