@@ -92,9 +92,9 @@ Relative
 
 man
 
-### 
+### What TCPDump switch will allow us to pipe the contents of a pcap file out to another function such as 'grep'?
 
-
+-l
 
 ### 
 
