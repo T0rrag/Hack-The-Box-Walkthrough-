@@ -108,9 +108,9 @@ not icmp
 
 which tcpdump
 
-### 
+### How do you start a capture with TCPDump to capture on eth0?
 
-
+tcpdump -i eth0
 
 ### 
 
