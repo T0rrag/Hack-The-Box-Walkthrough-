@@ -100,13 +100,13 @@ man
 
 True
 
-### 
+### If we wished to filter out ICMP traffic from our capture, what filter could we use? ( word only, not symbol please.)
 
+not icmp
 
+### What command will show you where / if TCPDump is installed?
 
-### 
-
-
+which tcpdump
 
 ### 
 
