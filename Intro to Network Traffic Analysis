@@ -112,15 +112,15 @@ which tcpdump
 
 tcpdump -i eth0
 
-### 
+### What switch will write your capture output to a .pcap file?
 
+-w
 
+### What switch will read a capture from a .pcap file?
 
-### 
+-r
 
-
-
-### 
+### What switch will show the contents of a capture in Hex and ASCII?
 
 
 
