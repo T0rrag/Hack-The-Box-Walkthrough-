@@ -122,11 +122,11 @@ tcpdump -i eth0
 
 ### What switch will show the contents of a capture in Hex and ASCII?
 
+-X
 
+### What filter will allow me to see traffic coming from or destined to the host with an ip of 10.10.20.1?
 
-### 
-
-
+host 10.10.20.1
 
 ### 
 
