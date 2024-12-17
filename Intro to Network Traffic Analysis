@@ -144,17 +144,17 @@ True
 
 172.16.146.1
 
-###  
+###  True or False: Wireshark can run on both Windows and Linux.
 
+True
 
+###  Which Pane allows a user to see a summary of each packet grabbed during the capture?
 
-###  
+Packet List
 
+###  Which pane provides you insight into the traffic you captured and displays it in both ASCII and Hex?
 
-
-###  
-
-
+Packet Bytes
 
 ###  
 
