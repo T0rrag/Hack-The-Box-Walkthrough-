@@ -156,17 +156,17 @@ Packet List
 
 Packet Bytes
 
-###  
+###  What switch is used with TShark to list possible interfaces to capture on?
 
+-D
 
+###  What switch allows us to apply filters in TShark?
 
-###  
+-f
 
+###  Is a capture filter applied before the capture starts or after? (answer before or after)
 
-
-###  
-
-
+before
 
 ###  
 
